@@ -1,0 +1,3 @@
+# Server
+Server = https://github.com/Killer-OS/$repo/raw/master/$arch
+Server = https://raw.githubusercontent.com/Killer-OS/$repo/master/$arch
