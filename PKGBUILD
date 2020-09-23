@@ -1,6 +1,6 @@
 pkgname=killer-os-mirrorlist
 pkgver=stable
-pkgrel=1
+pkgrel=2
 pkgdesc="Killer-OS mirrorlist"
 arch=('x86_64')
 url="https://github.com/Killer-OS-Oficial/Killer-OS-Mirrorlist"
